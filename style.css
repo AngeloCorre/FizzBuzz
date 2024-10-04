@@ -1,0 +1,27 @@
+.div-container{
+    background-color: aqua;
+    margin-right: 790pt;
+    border: 8pt solid black;
+    padding: 20px;
+}
+
+.sec-container{
+    background-color: yellow;
+    color: yellow;
+    border: 5px solid black;
+    padding: 20px;
+    margin-left: 205pt;
+    margin-right: 560pt;
+    border-width: 20px 10px 20px 10px;
+}
+
+.third-container{
+    background-color: brown;
+    color: brown;
+    border: 5px solid black;
+    border-width: 10px 10px 10px 10px;
+    margin-right: 790pt;
+    margin-left: 20pt;
+    padding: 10px 10px 10px 10px;
+}
+
